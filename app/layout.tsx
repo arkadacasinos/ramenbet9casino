@@ -83,6 +83,7 @@ export default function RootLayout({
   return (
     <html lang="ru">
       <head>
+        <meta name="yandex-verification" content="7dcd13d41993af16" />
         <meta charSet="utf-8" />
         <meta name="format-detection" content="telephone=no" />
         <meta name="theme-color" content="#0b1020" />
